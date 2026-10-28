@@ -8,7 +8,7 @@ import json
 import xml.etree.ElementTree as ET
 
 # 目标数据源（请替换为你绑定的真实域名）
-TARGET_DOMAIN = "https://你的域名.com"
+TARGET_DOMAIN = "https://blackcat8.com/"
 
 def fetch_today():
     """通过 /today 接口获取今日最新精选预测"""
